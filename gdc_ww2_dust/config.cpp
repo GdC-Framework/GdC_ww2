@@ -117,6 +117,56 @@ class CfgVehicles{
 			{"GZforest","RDustEffectsMan"},
 			{"GZkameny","RDustEffectsMan"},
 			{"GZHlina","RDustEffectsMan"},
+			// IFA3
+			{"I44_Mer_Field","RDustEffectsMan"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","RDustEffectsMan"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","RDustEffectsMan"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","RDustEffectsMan"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","RDustEffectsMan"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","RDustEffectsMan"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","RDustEffectsMan"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","RDustEffectsMan"}, // herbe
+			{"I44_Nea_GravelSurface","RDustEffectsMan"}, // terre nue gravier
+			{"I44_Omaha_Brown","RDustEffectsMan"},
+			{"I44_Omaha_Green","RDustEffectsMan"},
+			{"I44_Omaha_Lawn","RDustEffectsMan"},
+			{"I44_Omaha_v2_Brown","RDustEffectsMan"}, // terre + herbes
+			{"I44_Omaha_v2_Green","RDustEffectsMan"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","RDustEffectsMan"}, // vert Herbe
+			{"LIB_France_Grass","RDustEffectsMan"}, // Herbe bien verte
+			{"LIB_France_Poppy","RDustEffectsMan"}, // Coquelicots
+			{"LIB_France_Raps","RDustEffectsMan"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","RDustEffectsMan"}, // Sable plage
+			{"LIB_France_Tillage","RDustEffectsMan"}, // Champ de terre
+			{"LIB_France_Weed","RDustEffectsMan"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","RDustEffectsMan"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","RDustEffectsMan"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","RDustEffectsMan"}, // sol brulé
+			{"LIB_Staszow_Forest","RDustEffectsMan"}, // Sous-bois
+			{"LIB_Staszow_Grass","RDustEffectsMan"}, // herbe verte
+			{"LIB_Staszow_Grazy","RDustEffectsMan"},
+			{"LIB_Staszow_Oldgrass","RDustEffectsMan"},
+			{"LIB_Staszow_Oldwheat","RDustEffectsMan"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","RDustEffectsMan"}, // Sable
+			{"LIB_Staszow_Swamp","RDustEffectsMan"}, // marais
+			{"LIB_Staszow_Wheat","RDustEffectsMan"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","RDustEffectsMan"}, // Champ herbe
+			{"swu_aachen_footsteps","RDustEffectsMan"}, // terreux
+			{"swu_aachen_forest","RDustEffectsMan"}, // sous bois herbe
+			{"swu_aachen_main_field","RDustEffectsMan"}, // Champ herbe brun
+			{"swu_aachen_roads","RDustEffectsMan"}, // terreux bord de route
+			{"swu_berlin_grass","RDustEffectsMan"},
+			{"swu_berlin_main","RDustEffectsMan"},
+			{"SWU_Dunkirk_Roadside","RDustEffectsMan"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","RDustEffectsMan"}, // sous bois
+			{"SWU_Grass_Normal","RDustEffectsMan"}, // herbe
+			{"SWU_Grassy_Floor","RDustEffectsMan"}, // herbe
+			{"swu_greece_grass","RDustEffectsMan"}, // Herbe
+			{"swu_greece_road","RDustEffectsMan"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","RDustEffectsMan"}, // Champ herbe très seche
+			{"swu_greece_woods","RDustEffectsMan"}, // sous bois herebe
+			{"SWU_Road_Side","RDustEffectsMan"}, // bord de route terreux
+			{"SWU_Sandy_Floor","RDustEffectsMan"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","RDustEffectsMan"},
 			{"siFallujahAcqua","RDustEffectsMan"},
@@ -216,7 +266,7 @@ class CfgVehicles{
 			{"mak308_Dirt","RDustEffectsMan"},
 			{"mak308_GrassDry","RDustEffectsMan"},
 			{"mak319_thorn","RDustEffectsMan"},
-			{"mak319_desert","RDustEffectsMan"}			
+			{"mak319_desert","RDustEffectsMan"}
 		};
 		leftDustEffects[] ={
 			{"GdtGrassShort","LDustEffectsMan"},
@@ -318,6 +368,56 @@ class CfgVehicles{
 			{"GZforest","LDustEffectsMan"},
 			{"GZkameny","LDustEffectsMan"},
 			{"GZHlina","LDustEffectsMan"},
+			// IFA3
+			{"I44_Mer_Field","LDustEffectsMan"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","LDustEffectsMan"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","LDustEffectsMan"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","LDustEffectsMan"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","LDustEffectsMan"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","LDustEffectsMan"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","LDustEffectsMan"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","LDustEffectsMan"}, // herbe
+			{"I44_Nea_GravelSurface","LDustEffectsMan"}, // terre nue gravier
+			{"I44_Omaha_Brown","LDustEffectsMan"},
+			{"I44_Omaha_Green","LDustEffectsMan"},
+			{"I44_Omaha_Lawn","LDustEffectsMan"},
+			{"I44_Omaha_v2_Brown","LDustEffectsMan"}, // terre + herbes
+			{"I44_Omaha_v2_Green","LDustEffectsMan"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","LDustEffectsMan"}, // vert Herbe
+			{"LIB_France_Grass","LDustEffectsMan"}, // Herbe bien verte
+			{"LIB_France_Poppy","LDustEffectsMan"}, // Coquelicots
+			{"LIB_France_Raps","LDustEffectsMan"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","LDustEffectsMan"}, // Sable plage
+			{"LIB_France_Tillage","LDustEffectsMan"}, // Champ de terre
+			{"LIB_France_Weed","LDustEffectsMan"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","LDustEffectsMan"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","LDustEffectsMan"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","LDustEffectsMan"}, // sol brulé
+			{"LIB_Staszow_Forest","LDustEffectsMan"}, // Sous-bois
+			{"LIB_Staszow_Grass","LDustEffectsMan"}, // herbe verte
+			{"LIB_Staszow_Grazy","LDustEffectsMan"},
+			{"LIB_Staszow_Oldgrass","LDustEffectsMan"},
+			{"LIB_Staszow_Oldwheat","LDustEffectsMan"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","LDustEffectsMan"}, // Sable
+			{"LIB_Staszow_Swamp","LDustEffectsMan"}, // marais
+			{"LIB_Staszow_Wheat","LDustEffectsMan"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","LDustEffectsMan"}, // Champ herbe
+			{"swu_aachen_footsteps","LDustEffectsMan"}, // terreux
+			{"swu_aachen_forest","LDustEffectsMan"}, // sous bois herbe
+			{"swu_aachen_main_field","LDustEffectsMan"}, // Champ herbe brun
+			{"swu_aachen_roads","LDustEffectsMan"}, // terreux bord de route
+			{"swu_berlin_grass","LDustEffectsMan"},
+			{"swu_berlin_main","LDustEffectsMan"},
+			{"SWU_Dunkirk_Roadside","LDustEffectsMan"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","LDustEffectsMan"}, // sous bois
+			{"SWU_Grass_Normal","LDustEffectsMan"}, // herbe
+			{"SWU_Grassy_Floor","LDustEffectsMan"}, // herbe
+			{"swu_greece_grass","LDustEffectsMan"}, // Herbe
+			{"swu_greece_road","LDustEffectsMan"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","LDustEffectsMan"}, // Champ herbe très seche
+			{"swu_greece_woods","LDustEffectsMan"}, // sous bois herebe
+			{"SWU_Road_Side","LDustEffectsMan"}, // bord de route terreux
+			{"SWU_Sandy_Floor","LDustEffectsMan"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","LDustEffectsMan"},
 			{"siFallujahAcqua","LDustEffectsMan"},
@@ -668,6 +768,139 @@ class CfgVehicles{
 			{"Asf2","RDirtEffects"},
 			{"Asf3","RDirtEffects"},
 			{"road","RDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","RDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RGrassEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RDirtEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","RDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RGrassEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RDirtEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RGrassEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RDirtEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RGrassEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RDirtEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","RDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","RDirtEffects"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","RDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RGrassDryEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RDirtEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","RDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RGrassEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RDirtEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","RDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RGrassEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RDirtEffects"}, // herbe
+			{"I44_Nea_GravelSurface","RDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RDirtEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","RDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RGrassEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RDirtEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Green","RDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RGrassEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RDirtEffects"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","RDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RGrassEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RDirtEffects"}, // vert Herbe
+			{"LIB_France_Grass","RDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RGrassEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RDirtEffects"}, // Herbe bien verte
+			{"LIB_France_Poppy","RDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RGrassEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RDirtEffects"}, // Coquelicots
+			{"LIB_France_Raps","RDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RGrassEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RDirtEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","RDustEffects"}, // Sable plage
+			{"LIB_France_Sand","RDirtEffects"}, // Sable plage
+			{"LIB_France_Sand","RSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","RDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","RDirtEffects"}, // Champ de terre
+			{"LIB_France_Weed","RDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RGrassDryEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RDirtEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","RDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RGrassEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RDirtEffects"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","RDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RGrassEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RDirtEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","RDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","RDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","RDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RGrassEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RDirtEffects"}, // Sous-bois
+			{"LIB_Staszow_Grass","RDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RGrassEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RDirtEffects"}, // herbe verte
+			{"LIB_Staszow_Grazy","RDustEffects"},
+			{"LIB_Staszow_Grazy","RGrassEffects"},
+			{"LIB_Staszow_Grazy","RDirtEffects"},
+			{"LIB_Staszow_Oldgrass","RDustEffects"},
+			{"LIB_Staszow_Oldgrass","RGrassDryEffects"},
+			{"LIB_Staszow_Oldgrass","RDirtEffects"},
+			{"LIB_Staszow_Oldwheat","RDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RGrassDryEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RDirtEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","RDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","RDirtEffects"}, // Sable
+			{"LIB_Staszow_Sand","RSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","RDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","RGrassEffects"}, // marais
+			{"LIB_Staszow_Swamp","RDirtEffects"}, // marais
+			{"LIB_Staszow_Wheat","RDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RGrassDryEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RDirtEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","RDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RGrassEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RDirtEffects"}, // Champ herbe
+			{"swu_aachen_footsteps","RDustEffects"}, // terreux
+			{"swu_aachen_footsteps","RDirtEffects"}, // terreux
+			{"swu_aachen_forest","RDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RGrassEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RDirtEffects"}, // sous bois herbe
+			{"swu_aachen_main_field","RDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RGrassDryEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RDirtEffects"}, // Champ herbe brun
+			{"swu_aachen_roads","RDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","RDirtEffects"}, // terreux bord de route
+			{"swu_berlin_grass","RDustEffects"},
+			{"swu_berlin_grass","RGrassEffects"},
+			{"swu_berlin_grass","RDirtEffects"},
+			{"swu_berlin_main","RDustEffects"},
+			{"swu_berlin_main","RDirtEffects"},
+			{"SWU_Dunkirk_Roadside","RDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RGrassEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RDirtEffects"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","RDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","RGrassEffects"}, // sous bois
+			{"SWU_Forest_Mud","RDirtEffects"}, // sous bois
+			{"SWU_Grass_Normal","RDustEffects"}, // herbe
+			{"SWU_Grass_Normal","RGrassEffects"}, // herbe
+			{"SWU_Grass_Normal","RDirtEffects"}, // herbe
+			{"SWU_Grassy_Floor","RDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","RGrassEffects"}, // herbe
+			{"SWU_Grassy_Floor","RDirtEffects"}, // herbe
+			{"swu_greece_grass","RDustEffects"}, // Herbe
+			{"swu_greece_grass","RGrassEffects"}, // Herbe
+			{"swu_greece_grass","RDirtEffects"}, // Herbe
+			{"swu_greece_road","RDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RGrassDryEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RDirtEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","RDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RGrassDryEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RDirtEffects"}, // Champ herbe très seche
+			{"swu_greece_woods","RDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","RGrassEffects"}, // sous bois herebe
+			{"swu_greece_woods","RDirtEffects"}, // sous bois herebe
+			{"SWU_Road_Side","RDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","RDirtEffects"}, // bord de route terreux
+			{"SWU_Sandy_Floor","RDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RGrassDryEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RDirtEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","RDustEffects"},
 			{"siFallujahTerra","RSandEffects"},
@@ -1150,6 +1383,139 @@ class CfgVehicles{
 			{"Asf3","LDirtEffects"},
 			{"road","LDustEffects"},
 			{"Cesta","LDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","LDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LGrassEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LDirtEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","LDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LGrassEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LDirtEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LGrassEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LDirtEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LGrassEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LDirtEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","LDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","LDirtEffects"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","LDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LGrassDryEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LDirtEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","LDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LGrassEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LDirtEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","LDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LGrassEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LDirtEffects"}, // herbe
+			{"I44_Nea_GravelSurface","LDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LDirtEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","LDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LGrassEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LDirtEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Green","LDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LGrassEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LDirtEffects"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","LDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LGrassEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LDirtEffects"}, // vert Herbe
+			{"LIB_France_Grass","LDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LGrassEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LDirtEffects"}, // Herbe bien verte
+			{"LIB_France_Poppy","LDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LGrassEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LDirtEffects"}, // Coquelicots
+			{"LIB_France_Raps","LDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LGrassEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LDirtEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","LDustEffects"}, // Sable plage
+			{"LIB_France_Sand","LDirtEffects"}, // Sable plage
+			{"LIB_France_Sand","LSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","LDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","LDirtEffects"}, // Champ de terre
+			{"LIB_France_Weed","LDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LGrassDryEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LDirtEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","LDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LGrassEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LDirtEffects"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","LDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LGrassEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LDirtEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","LDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","LDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","LDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LGrassEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LDirtEffects"}, // Sous-bois
+			{"LIB_Staszow_Grass","LDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LGrassEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LDirtEffects"}, // herbe verte
+			{"LIB_Staszow_Grazy","LDustEffects"},
+			{"LIB_Staszow_Grazy","LGrassEffects"},
+			{"LIB_Staszow_Grazy","LDirtEffects"},
+			{"LIB_Staszow_Oldgrass","LDustEffects"},
+			{"LIB_Staszow_Oldgrass","LGrassDryEffects"},
+			{"LIB_Staszow_Oldgrass","LDirtEffects"},
+			{"LIB_Staszow_Oldwheat","LDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LGrassDryEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LDirtEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","LDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","LDirtEffects"}, // Sable
+			{"LIB_Staszow_Sand","LSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","LDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","LGrassEffects"}, // marais
+			{"LIB_Staszow_Swamp","LDirtEffects"}, // marais
+			{"LIB_Staszow_Wheat","LDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LGrassDryEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LDirtEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","LDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LGrassEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LDirtEffects"}, // Champ herbe
+			{"swu_aachen_footsteps","LDustEffects"}, // terreux
+			{"swu_aachen_footsteps","LDirtEffects"}, // terreux
+			{"swu_aachen_forest","LDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LGrassEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LDirtEffects"}, // sous bois herbe
+			{"swu_aachen_main_field","LDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LGrassDryEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LDirtEffects"}, // Champ herbe brun
+			{"swu_aachen_roads","LDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","LDirtEffects"}, // terreux bord de route
+			{"swu_berlin_grass","LDustEffects"},
+			{"swu_berlin_grass","LGrassEffects"},
+			{"swu_berlin_grass","LDirtEffects"},
+			{"swu_berlin_main","LDustEffects"},
+			{"swu_berlin_main","LDirtEffects"},
+			{"SWU_Dunkirk_Roadside","LDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LGrassEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LDirtEffects"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","LDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","LGrassEffects"}, // sous bois
+			{"SWU_Forest_Mud","LDirtEffects"}, // sous bois
+			{"SWU_Grass_Normal","LDustEffects"}, // herbe
+			{"SWU_Grass_Normal","LGrassEffects"}, // herbe
+			{"SWU_Grass_Normal","LDirtEffects"}, // herbe
+			{"SWU_Grassy_Floor","LDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","LGrassEffects"}, // herbe
+			{"SWU_Grassy_Floor","LDirtEffects"}, // herbe
+			{"swu_greece_grass","LDustEffects"}, // Herbe
+			{"swu_greece_grass","LGrassEffects"}, // Herbe
+			{"swu_greece_grass","LDirtEffects"}, // Herbe
+			{"swu_greece_road","LDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LGrassDryEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LDirtEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","LDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LGrassDryEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LDirtEffects"}, // Champ herbe très seche
+			{"swu_greece_woods","LDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","LGrassEffects"}, // sous bois herebe
+			{"swu_greece_woods","LDirtEffects"}, // sous bois herebe
+			{"SWU_Road_Side","LDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","LDirtEffects"}, // bord de route terreux
+			{"SWU_Sandy_Floor","LDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LGrassDryEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LDirtEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","LDustEffects"},
 			{"siFallujahTerra","LDirtEffectsBig"},
@@ -1633,6 +1999,139 @@ class CfgVehicles{
 			{"Asf2","RDirtEffects"},
 			{"Asf3","RDirtEffects"},
 			{"road","RDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","RDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RGrassEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RDirtEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","RDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RGrassEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RDirtEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RGrassEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RDirtEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RGrassEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RDirtEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","RDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","RDirtEffects"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","RDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RGrassDryEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RDirtEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","RDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RGrassEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RDirtEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","RDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RGrassEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RDirtEffects"}, // herbe
+			{"I44_Nea_GravelSurface","RDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RDirtEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","RDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RGrassEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RDirtEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Green","RDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RGrassEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RDirtEffects"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","RDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RGrassEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RDirtEffects"}, // vert Herbe
+			{"LIB_France_Grass","RDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RGrassEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RDirtEffects"}, // Herbe bien verte
+			{"LIB_France_Poppy","RDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RGrassEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RDirtEffects"}, // Coquelicots
+			{"LIB_France_Raps","RDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RGrassEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RDirtEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","RDustEffects"}, // Sable plage
+			{"LIB_France_Sand","RDirtEffects"}, // Sable plage
+			{"LIB_France_Sand","RSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","RDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","RDirtEffects"}, // Champ de terre
+			{"LIB_France_Weed","RDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RGrassDryEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RDirtEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","RDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RGrassEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RDirtEffects"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","RDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RGrassEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RDirtEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","RDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","RDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","RDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RGrassEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RDirtEffects"}, // Sous-bois
+			{"LIB_Staszow_Grass","RDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RGrassEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RDirtEffects"}, // herbe verte
+			{"LIB_Staszow_Grazy","RDustEffects"},
+			{"LIB_Staszow_Grazy","RGrassEffects"},
+			{"LIB_Staszow_Grazy","RDirtEffects"},
+			{"LIB_Staszow_Oldgrass","RDustEffects"},
+			{"LIB_Staszow_Oldgrass","RGrassDryEffects"},
+			{"LIB_Staszow_Oldgrass","RDirtEffects"},
+			{"LIB_Staszow_Oldwheat","RDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RGrassDryEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RDirtEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","RDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","RDirtEffects"}, // Sable
+			{"LIB_Staszow_Sand","RSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","RDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","RGrassEffects"}, // marais
+			{"LIB_Staszow_Swamp","RDirtEffects"}, // marais
+			{"LIB_Staszow_Wheat","RDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RGrassDryEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RDirtEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","RDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RGrassEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RDirtEffects"}, // Champ herbe
+			{"swu_aachen_footsteps","RDustEffects"}, // terreux
+			{"swu_aachen_footsteps","RDirtEffects"}, // terreux
+			{"swu_aachen_forest","RDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RGrassEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RDirtEffects"}, // sous bois herbe
+			{"swu_aachen_main_field","RDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RGrassDryEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RDirtEffects"}, // Champ herbe brun
+			{"swu_aachen_roads","RDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","RDirtEffects"}, // terreux bord de route
+			{"swu_berlin_grass","RDustEffects"},
+			{"swu_berlin_grass","RGrassEffects"},
+			{"swu_berlin_grass","RDirtEffects"},
+			{"swu_berlin_main","RDustEffects"},
+			{"swu_berlin_main","RDirtEffects"},
+			{"SWU_Dunkirk_Roadside","RDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RGrassEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RDirtEffects"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","RDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","RGrassEffects"}, // sous bois
+			{"SWU_Forest_Mud","RDirtEffects"}, // sous bois
+			{"SWU_Grass_Normal","RDustEffects"}, // herbe
+			{"SWU_Grass_Normal","RGrassEffects"}, // herbe
+			{"SWU_Grass_Normal","RDirtEffects"}, // herbe
+			{"SWU_Grassy_Floor","RDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","RGrassEffects"}, // herbe
+			{"SWU_Grassy_Floor","RDirtEffects"}, // herbe
+			{"swu_greece_grass","RDustEffects"}, // Herbe
+			{"swu_greece_grass","RGrassEffects"}, // Herbe
+			{"swu_greece_grass","RDirtEffects"}, // Herbe
+			{"swu_greece_road","RDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RGrassDryEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RDirtEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","RDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RGrassDryEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RDirtEffects"}, // Champ herbe très seche
+			{"swu_greece_woods","RDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","RGrassEffects"}, // sous bois herebe
+			{"swu_greece_woods","RDirtEffects"}, // sous bois herebe
+			{"SWU_Road_Side","RDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","RDirtEffects"}, // bord de route terreux
+			{"SWU_Sandy_Floor","RDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RGrassDryEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RDirtEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","RDustEffects"},
 			{"siFallujahTerra","RSandEffects"},
@@ -2115,6 +2614,139 @@ class CfgVehicles{
 			{"Asf3","LDirtEffects"},
 			{"road","LDustEffects"},
 			{"Cesta","LDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","LDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LGrassEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LDirtEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","LDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LGrassEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LDirtEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LGrassEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LDirtEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LGrassEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LDirtEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","LDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","LDirtEffects"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","LDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LGrassDryEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LDirtEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","LDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LGrassEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LDirtEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","LDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LGrassEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LDirtEffects"}, // herbe
+			{"I44_Nea_GravelSurface","LDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LDirtEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","LDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LGrassEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LDirtEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Green","LDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LGrassEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LDirtEffects"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","LDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LGrassEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LDirtEffects"}, // vert Herbe
+			{"LIB_France_Grass","LDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LGrassEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LDirtEffects"}, // Herbe bien verte
+			{"LIB_France_Poppy","LDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LGrassEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LDirtEffects"}, // Coquelicots
+			{"LIB_France_Raps","LDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LGrassEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LDirtEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","LDustEffects"}, // Sable plage
+			{"LIB_France_Sand","LDirtEffects"}, // Sable plage
+			{"LIB_France_Sand","LSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","LDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","LDirtEffects"}, // Champ de terre
+			{"LIB_France_Weed","LDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LGrassDryEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LDirtEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","LDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LGrassEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LDirtEffects"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","LDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LGrassEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LDirtEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","LDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","LDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","LDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LGrassEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LDirtEffects"}, // Sous-bois
+			{"LIB_Staszow_Grass","LDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LGrassEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LDirtEffects"}, // herbe verte
+			{"LIB_Staszow_Grazy","LDustEffects"},
+			{"LIB_Staszow_Grazy","LGrassEffects"},
+			{"LIB_Staszow_Grazy","LDirtEffects"},
+			{"LIB_Staszow_Oldgrass","LDustEffects"},
+			{"LIB_Staszow_Oldgrass","LGrassDryEffects"},
+			{"LIB_Staszow_Oldgrass","LDirtEffects"},
+			{"LIB_Staszow_Oldwheat","LDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LGrassDryEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LDirtEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","LDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","LDirtEffects"}, // Sable
+			{"LIB_Staszow_Sand","LSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","LDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","LGrassEffects"}, // marais
+			{"LIB_Staszow_Swamp","LDirtEffects"}, // marais
+			{"LIB_Staszow_Wheat","LDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LGrassDryEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LDirtEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","LDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LGrassEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LDirtEffects"}, // Champ herbe
+			{"swu_aachen_footsteps","LDustEffects"}, // terreux
+			{"swu_aachen_footsteps","LDirtEffects"}, // terreux
+			{"swu_aachen_forest","LDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LGrassEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LDirtEffects"}, // sous bois herbe
+			{"swu_aachen_main_field","LDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LGrassDryEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LDirtEffects"}, // Champ herbe brun
+			{"swu_aachen_roads","LDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","LDirtEffects"}, // terreux bord de route
+			{"swu_berlin_grass","LDustEffects"},
+			{"swu_berlin_grass","LGrassEffects"},
+			{"swu_berlin_grass","LDirtEffects"},
+			{"swu_berlin_main","LDustEffects"},
+			{"swu_berlin_main","LDirtEffects"},
+			{"SWU_Dunkirk_Roadside","LDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LGrassEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LDirtEffects"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","LDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","LGrassEffects"}, // sous bois
+			{"SWU_Forest_Mud","LDirtEffects"}, // sous bois
+			{"SWU_Grass_Normal","LDustEffects"}, // herbe
+			{"SWU_Grass_Normal","LGrassEffects"}, // herbe
+			{"SWU_Grass_Normal","LDirtEffects"}, // herbe
+			{"SWU_Grassy_Floor","LDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","LGrassEffects"}, // herbe
+			{"SWU_Grassy_Floor","LDirtEffects"}, // herbe
+			{"swu_greece_grass","LDustEffects"}, // Herbe
+			{"swu_greece_grass","LGrassEffects"}, // Herbe
+			{"swu_greece_grass","LDirtEffects"}, // Herbe
+			{"swu_greece_road","LDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LGrassDryEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LDirtEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","LDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LGrassDryEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LDirtEffects"}, // Champ herbe très seche
+			{"swu_greece_woods","LDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","LGrassEffects"}, // sous bois herebe
+			{"swu_greece_woods","LDirtEffects"}, // sous bois herebe
+			{"SWU_Road_Side","LDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","LDirtEffects"}, // bord de route terreux
+			{"SWU_Sandy_Floor","LDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LGrassDryEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LDirtEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","LDustEffects"},
 			{"siFallujahTerra","LDirtEffectsBig"},
@@ -2347,7 +2979,7 @@ class CfgVehicles{
 			{"mak319_desert","LDustEffects"},
 			{"mak319_desert","LDirtEffectsBig"},
 			{"mak319_desert","LSandEffects"}
-		};		
+		};
 	};
 	class Truck_F: Car_F {};
 	class LIB_Truck_base: Truck_F
@@ -2598,6 +3230,139 @@ class CfgVehicles{
 			{"Asf2","RDirtEffects"},
 			{"Asf3","RDirtEffects"},
 			{"road","RDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","RDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RGrassEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RDirtEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","RDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RGrassEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RDirtEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RGrassEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RDirtEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RGrassEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RDirtEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","RDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","RDirtEffects"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","RDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RGrassDryEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RDirtEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","RDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RGrassEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RDirtEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","RDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RGrassEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RDirtEffects"}, // herbe
+			{"I44_Nea_GravelSurface","RDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RDirtEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","RDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RGrassEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RDirtEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Green","RDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RGrassEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RDirtEffects"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","RDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RGrassEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RDirtEffects"}, // vert Herbe
+			{"LIB_France_Grass","RDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RGrassEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RDirtEffects"}, // Herbe bien verte
+			{"LIB_France_Poppy","RDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RGrassEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RDirtEffects"}, // Coquelicots
+			{"LIB_France_Raps","RDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RGrassEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RDirtEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","RDustEffects"}, // Sable plage
+			{"LIB_France_Sand","RDirtEffects"}, // Sable plage
+			{"LIB_France_Sand","RSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","RDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","RDirtEffects"}, // Champ de terre
+			{"LIB_France_Weed","RDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RGrassDryEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RDirtEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","RDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RGrassEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RDirtEffects"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","RDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RGrassEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RDirtEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","RDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","RDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","RDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RGrassEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RDirtEffects"}, // Sous-bois
+			{"LIB_Staszow_Grass","RDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RGrassEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RDirtEffects"}, // herbe verte
+			{"LIB_Staszow_Grazy","RDustEffects"},
+			{"LIB_Staszow_Grazy","RGrassEffects"},
+			{"LIB_Staszow_Grazy","RDirtEffects"},
+			{"LIB_Staszow_Oldgrass","RDustEffects"},
+			{"LIB_Staszow_Oldgrass","RGrassDryEffects"},
+			{"LIB_Staszow_Oldgrass","RDirtEffects"},
+			{"LIB_Staszow_Oldwheat","RDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RGrassDryEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RDirtEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","RDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","RDirtEffects"}, // Sable
+			{"LIB_Staszow_Sand","RSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","RDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","RGrassEffects"}, // marais
+			{"LIB_Staszow_Swamp","RDirtEffects"}, // marais
+			{"LIB_Staszow_Wheat","RDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RGrassDryEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RDirtEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","RDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RGrassEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RDirtEffects"}, // Champ herbe
+			{"swu_aachen_footsteps","RDustEffects"}, // terreux
+			{"swu_aachen_footsteps","RDirtEffects"}, // terreux
+			{"swu_aachen_forest","RDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RGrassEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RDirtEffects"}, // sous bois herbe
+			{"swu_aachen_main_field","RDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RGrassDryEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RDirtEffects"}, // Champ herbe brun
+			{"swu_aachen_roads","RDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","RDirtEffects"}, // terreux bord de route
+			{"swu_berlin_grass","RDustEffects"},
+			{"swu_berlin_grass","RGrassEffects"},
+			{"swu_berlin_grass","RDirtEffects"},
+			{"swu_berlin_main","RDustEffects"},
+			{"swu_berlin_main","RDirtEffects"},
+			{"SWU_Dunkirk_Roadside","RDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RGrassEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RDirtEffects"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","RDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","RGrassEffects"}, // sous bois
+			{"SWU_Forest_Mud","RDirtEffects"}, // sous bois
+			{"SWU_Grass_Normal","RDustEffects"}, // herbe
+			{"SWU_Grass_Normal","RGrassEffects"}, // herbe
+			{"SWU_Grass_Normal","RDirtEffects"}, // herbe
+			{"SWU_Grassy_Floor","RDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","RGrassEffects"}, // herbe
+			{"SWU_Grassy_Floor","RDirtEffects"}, // herbe
+			{"swu_greece_grass","RDustEffects"}, // Herbe
+			{"swu_greece_grass","RGrassEffects"}, // Herbe
+			{"swu_greece_grass","RDirtEffects"}, // Herbe
+			{"swu_greece_road","RDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RGrassDryEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RDirtEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","RDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RGrassDryEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RDirtEffects"}, // Champ herbe très seche
+			{"swu_greece_woods","RDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","RGrassEffects"}, // sous bois herebe
+			{"swu_greece_woods","RDirtEffects"}, // sous bois herebe
+			{"SWU_Road_Side","RDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","RDirtEffects"}, // bord de route terreux
+			{"SWU_Sandy_Floor","RDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RGrassDryEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RDirtEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","RDustEffects"},
 			{"siFallujahTerra","RSandEffects"},
@@ -3080,6 +3845,139 @@ class CfgVehicles{
 			{"Asf3","LDirtEffects"},
 			{"road","LDustEffects"},
 			{"Cesta","LDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","LDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LGrassEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LDirtEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","LDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LGrassEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LDirtEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LGrassEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LDirtEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LGrassEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LDirtEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","LDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","LDirtEffects"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","LDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LGrassDryEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LDirtEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","LDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LGrassEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LDirtEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","LDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LGrassEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LDirtEffects"}, // herbe
+			{"I44_Nea_GravelSurface","LDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LDirtEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","LDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LGrassEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LDirtEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Green","LDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LGrassEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LDirtEffects"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","LDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LGrassEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LDirtEffects"}, // vert Herbe
+			{"LIB_France_Grass","LDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LGrassEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LDirtEffects"}, // Herbe bien verte
+			{"LIB_France_Poppy","LDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LGrassEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LDirtEffects"}, // Coquelicots
+			{"LIB_France_Raps","LDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LGrassEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LDirtEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","LDustEffects"}, // Sable plage
+			{"LIB_France_Sand","LDirtEffects"}, // Sable plage
+			{"LIB_France_Sand","LSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","LDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","LDirtEffects"}, // Champ de terre
+			{"LIB_France_Weed","LDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LGrassDryEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LDirtEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","LDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LGrassEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LDirtEffects"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","LDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LGrassEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LDirtEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","LDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","LDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","LDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LGrassEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LDirtEffects"}, // Sous-bois
+			{"LIB_Staszow_Grass","LDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LGrassEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LDirtEffects"}, // herbe verte
+			{"LIB_Staszow_Grazy","LDustEffects"},
+			{"LIB_Staszow_Grazy","LGrassEffects"},
+			{"LIB_Staszow_Grazy","LDirtEffects"},
+			{"LIB_Staszow_Oldgrass","LDustEffects"},
+			{"LIB_Staszow_Oldgrass","LGrassDryEffects"},
+			{"LIB_Staszow_Oldgrass","LDirtEffects"},
+			{"LIB_Staszow_Oldwheat","LDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LGrassDryEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LDirtEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","LDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","LDirtEffects"}, // Sable
+			{"LIB_Staszow_Sand","LSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","LDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","LGrassEffects"}, // marais
+			{"LIB_Staszow_Swamp","LDirtEffects"}, // marais
+			{"LIB_Staszow_Wheat","LDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LGrassDryEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LDirtEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","LDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LGrassEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LDirtEffects"}, // Champ herbe
+			{"swu_aachen_footsteps","LDustEffects"}, // terreux
+			{"swu_aachen_footsteps","LDirtEffects"}, // terreux
+			{"swu_aachen_forest","LDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LGrassEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LDirtEffects"}, // sous bois herbe
+			{"swu_aachen_main_field","LDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LGrassDryEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LDirtEffects"}, // Champ herbe brun
+			{"swu_aachen_roads","LDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","LDirtEffects"}, // terreux bord de route
+			{"swu_berlin_grass","LDustEffects"},
+			{"swu_berlin_grass","LGrassEffects"},
+			{"swu_berlin_grass","LDirtEffects"},
+			{"swu_berlin_main","LDustEffects"},
+			{"swu_berlin_main","LDirtEffects"},
+			{"SWU_Dunkirk_Roadside","LDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LGrassEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LDirtEffects"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","LDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","LGrassEffects"}, // sous bois
+			{"SWU_Forest_Mud","LDirtEffects"}, // sous bois
+			{"SWU_Grass_Normal","LDustEffects"}, // herbe
+			{"SWU_Grass_Normal","LGrassEffects"}, // herbe
+			{"SWU_Grass_Normal","LDirtEffects"}, // herbe
+			{"SWU_Grassy_Floor","LDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","LGrassEffects"}, // herbe
+			{"SWU_Grassy_Floor","LDirtEffects"}, // herbe
+			{"swu_greece_grass","LDustEffects"}, // Herbe
+			{"swu_greece_grass","LGrassEffects"}, // Herbe
+			{"swu_greece_grass","LDirtEffects"}, // Herbe
+			{"swu_greece_road","LDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LGrassDryEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LDirtEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","LDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LGrassDryEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LDirtEffects"}, // Champ herbe très seche
+			{"swu_greece_woods","LDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","LGrassEffects"}, // sous bois herebe
+			{"swu_greece_woods","LDirtEffects"}, // sous bois herebe
+			{"SWU_Road_Side","LDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","LDirtEffects"}, // bord de route terreux
+			{"SWU_Sandy_Floor","LDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LGrassDryEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LDirtEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","LDustEffects"},
 			{"siFallujahTerra","LDirtEffectsBig"},
@@ -3312,7 +4210,7 @@ class CfgVehicles{
 			{"mak319_desert","LDustEffects"},
 			{"mak319_desert","LDirtEffectsBig"},
 			{"mak319_desert","LSandEffects"}
-		};	
+		};
 	};
 	class Tank: LandVehicle
 	{
@@ -3561,6 +4459,139 @@ class CfgVehicles{
 			{"Asf2","RDirtEffectsBig"},
 			{"Asf3","RDirtEffectsBig"},
 			{"road","RDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","RDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RGrassEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RDirtEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","RDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RGrassEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RDirtEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","RDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","RDirtEffectsBig"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","RDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RGrassEffectsDryBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RDirtEffectsBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","RDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RGrassEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RDirtEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","RDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RGrassEffectsBig"}, // herbe
+			{"I44_Nea_Grasssurface","RDirtEffectsBig"}, // herbe
+			{"I44_Nea_GravelSurface","RDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RDirtEffectsBig"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","RDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RGrassEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RDirtEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Green","RDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RGrassEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Green","RDirtEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","RDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RGrassEffectsBig"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RDirtEffectsBig"}, // vert Herbe
+			{"LIB_France_Grass","RDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RGrassEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Grass","RDirtEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Poppy","RDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RGrassEffectsBig"}, // Coquelicots
+			{"LIB_France_Poppy","RDirtEffectsBig"}, // Coquelicots
+			{"LIB_France_Raps","RDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RGrassEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RDirtEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","RDustEffects"}, // Sable plage
+			{"LIB_France_Sand","RDirtEffectsBig"}, // Sable plage
+			{"LIB_France_Sand","RSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","RDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","RDirtEffectsBig"}, // Champ de terre
+			{"LIB_France_Weed","RDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RGrassEffectsDryBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RDirtEffectsBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","RDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RGrassEffectsBig"}, // Champ de blé vert
+			{"LIB_France_Wheat","RDirtEffectsBig"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","RDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RGrassEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RDirtEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","RDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","RDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","RDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RGrassEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Forest","RDirtEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Grass","RDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RGrassEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grass","RDirtEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grazy","RDustEffects"},
+			{"LIB_Staszow_Grazy","RGrassEffectsBig"},
+			{"LIB_Staszow_Grazy","RDirtEffectsBig"},
+			{"LIB_Staszow_Oldgrass","RDustEffects"},
+			{"LIB_Staszow_Oldgrass","RGrassEffectsDryBig"},
+			{"LIB_Staszow_Oldgrass","RDirtEffectsBig"},
+			{"LIB_Staszow_Oldwheat","RDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RGrassEffectsDryBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RDirtEffectsBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","RDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","RDirtEffectsBig"}, // Sable
+			{"LIB_Staszow_Sand","RSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","RDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","RGrassEffectsBig"}, // marais
+			{"LIB_Staszow_Swamp","RDirtEffectsBig"}, // marais
+			{"LIB_Staszow_Wheat","RDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RGrassEffectsDryBig"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RDirtEffectsBig"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","RDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RGrassEffectsBig"}, // Champ herbe
+			{"swu_aachen_corn_field","RDirtEffectsBig"}, // Champ herbe
+			{"swu_aachen_footsteps","RDustEffects"}, // terreux
+			{"swu_aachen_footsteps","RDirtEffectsBig"}, // terreux
+			{"swu_aachen_forest","RDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RGrassEffectsBig"}, // sous bois herbe
+			{"swu_aachen_forest","RDirtEffectsBig"}, // sous bois herbe
+			{"swu_aachen_main_field","RDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RGrassEffectsDryBig"}, // Champ herbe brun
+			{"swu_aachen_main_field","RDirtEffectsBig"}, // Champ herbe brun
+			{"swu_aachen_roads","RDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","RDirtEffectsBig"}, // terreux bord de route
+			{"swu_berlin_grass","RDustEffects"},
+			{"swu_berlin_grass","RGrassEffectsBig"},
+			{"swu_berlin_grass","RDirtEffectsBig"},
+			{"swu_berlin_main","RDustEffects"},
+			{"swu_berlin_main","RDirtEffectsBig"},
+			{"SWU_Dunkirk_Roadside","RDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RGrassEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RDirtEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","RDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","RGrassEffectsBig"}, // sous bois
+			{"SWU_Forest_Mud","RDirtEffectsBig"}, // sous bois
+			{"SWU_Grass_Normal","RDustEffects"}, // herbe
+			{"SWU_Grass_Normal","RGrassEffectsBig"}, // herbe
+			{"SWU_Grass_Normal","RDirtEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","RDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","RGrassEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","RDirtEffectsBig"}, // herbe
+			{"swu_greece_grass","RDustEffects"}, // Herbe
+			{"swu_greece_grass","RGrassEffectsBig"}, // Herbe
+			{"swu_greece_grass","RDirtEffectsBig"}, // Herbe
+			{"swu_greece_road","RDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RGrassEffectsDryBig"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RDirtEffectsBig"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","RDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","v"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RDirtEffectsBig"}, // Champ herbe très seche
+			{"swu_greece_woods","RDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","RGrassEffectsBig"}, // sous bois herebe
+			{"swu_greece_woods","RDirtEffectsBig"}, // sous bois herebe
+			{"SWU_Road_Side","RDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","RDirtEffectsBig"}, // bord de route terreux
+			{"SWU_Sandy_Floor","RDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RGrassEffectsDryBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RDirtEffectsBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","RDustEffects"},
 			{"siFallujahTerra","RDirtEffectsBig"},
@@ -4035,6 +5066,139 @@ class CfgVehicles{
 			{"Asf3","LDirtEffectsBig"},
 			{"road","LDustEffects"},
 			{"Cesta","LDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","LDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LGrassEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LDirtEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","LDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LGrassEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LDirtEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","LDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","LDirtEffectsBig"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","LDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LGrassEffectsDryBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LDirtEffectsBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","LDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LGrassEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LDirtEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","LDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LGrassEffectsBig"}, // herbe
+			{"I44_Nea_Grasssurface","LDirtEffectsBig"}, // herbe
+			{"I44_Nea_GravelSurface","LDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LDirtEffectsBig"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","LDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LGrassEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LDirtEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Green","LDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LGrassEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Green","LDirtEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","LDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LGrassEffectsBig"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LDirtEffectsBig"}, // vert Herbe
+			{"LIB_France_Grass","LDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LGrassEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Grass","LDirtEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Poppy","LDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LGrassEffectsBig"}, // Coquelicots
+			{"LIB_France_Poppy","LDirtEffectsBig"}, // Coquelicots
+			{"LIB_France_Raps","LDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LGrassEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LDirtEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","LDustEffects"}, // Sable plage
+			{"LIB_France_Sand","LDirtEffectsBig"}, // Sable plage
+			{"LIB_France_Sand","LSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","LDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","LDirtEffectsBig"}, // Champ de terre
+			{"LIB_France_Weed","LDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LGrassEffectsDryBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LDirtEffectsBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","LDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LGrassEffectsBig"}, // Champ de blé vert
+			{"LIB_France_Wheat","LDirtEffectsBig"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","LDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LGrassEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LDirtEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","LDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","LDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","LDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LGrassEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Forest","LDirtEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Grass","LDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LGrassEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grass","LDirtEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grazy","LDustEffects"},
+			{"LIB_Staszow_Grazy","LGrassEffectsBig"},
+			{"LIB_Staszow_Grazy","LDirtEffectsBig"},
+			{"LIB_Staszow_Oldgrass","LDustEffects"},
+			{"LIB_Staszow_Oldgrass","LGrassEffectsDryBig"},
+			{"LIB_Staszow_Oldgrass","LDirtEffectsBig"},
+			{"LIB_Staszow_Oldwheat","LDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LGrassEffectsDryBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LDirtEffectsBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","LDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","LDirtEffectsBig"}, // Sable
+			{"LIB_Staszow_Sand","LSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","LDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","LGrassEffectsBig"}, // marais
+			{"LIB_Staszow_Swamp","LDirtEffectsBig"}, // marais
+			{"LIB_Staszow_Wheat","LDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LGrassEffectsDryBig"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LDirtEffectsBig"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","LDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LGrassEffectsBig"}, // Champ herbe
+			{"swu_aachen_corn_field","LDirtEffectsBig"}, // Champ herbe
+			{"swu_aachen_footsteps","LDustEffects"}, // terreux
+			{"swu_aachen_footsteps","LDirtEffectsBig"}, // terreux
+			{"swu_aachen_forest","LDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LGrassEffectsBig"}, // sous bois herbe
+			{"swu_aachen_forest","LDirtEffectsBig"}, // sous bois herbe
+			{"swu_aachen_main_field","LDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LGrassEffectsDryBig"}, // Champ herbe brun
+			{"swu_aachen_main_field","LDirtEffectsBig"}, // Champ herbe brun
+			{"swu_aachen_roads","LDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","LDirtEffectsBig"}, // terreux bord de route
+			{"swu_berlin_grass","LDustEffects"},
+			{"swu_berlin_grass","LGrassEffectsBig"},
+			{"swu_berlin_grass","LDirtEffectsBig"},
+			{"swu_berlin_main","LDustEffects"},
+			{"swu_berlin_main","LDirtEffectsBig"},
+			{"SWU_Dunkirk_Roadside","LDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LGrassEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LDirtEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","LDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","LGrassEffectsBig"}, // sous bois
+			{"SWU_Forest_Mud","LDirtEffectsBig"}, // sous bois
+			{"SWU_Grass_Normal","LDustEffects"}, // herbe
+			{"SWU_Grass_Normal","LGrassEffectsBig"}, // herbe
+			{"SWU_Grass_Normal","LDirtEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","LDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","LGrassEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","LDirtEffectsBig"}, // herbe
+			{"swu_greece_grass","LDustEffects"}, // Herbe
+			{"swu_greece_grass","LGrassEffectsBig"}, // Herbe
+			{"swu_greece_grass","LDirtEffectsBig"}, // Herbe
+			{"swu_greece_road","LDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LGrassEffectsDryBig"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LDirtEffectsBig"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","LDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LGrassEffectsDryBig"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LDirtEffectsBig"}, // Champ herbe très seche
+			{"swu_greece_woods","LDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","LGrassEffectsBig"}, // sous bois herebe
+			{"swu_greece_woods","LDirtEffectsBig"}, // sous bois herebe
+			{"SWU_Road_Side","LDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","LDirtEffectsBig"}, // bord de route terreux
+			{"SWU_Sandy_Floor","LDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LGrassEffectsDryBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LDirtEffectsBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","LDustEffects"},
 			{"siFallujahTerra","LDirtEffectsBig"},
@@ -4510,6 +5674,139 @@ class CfgVehicles{
 			{"Asf2","RDirtEffectsBig"},
 			{"Asf3","RDirtEffectsBig"},
 			{"road","RDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","RDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RGrassEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Field","RDirtEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","RDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RGrassEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","RDirtEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","RDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","RDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","RDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","RDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","RDirtEffectsBig"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","RDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RGrassEffectsDryBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","RDirtEffectsBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","RDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RGrassEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","RDirtEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","RDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","RGrassEffectsBig"}, // herbe
+			{"I44_Nea_Grasssurface","RDirtEffectsBig"}, // herbe
+			{"I44_Nea_GravelSurface","RDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RDirtEffectsBig"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","RStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","RDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RGrassEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","RDirtEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Green","RDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","RGrassEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Green","RDirtEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","RDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RGrassEffectsBig"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","RDirtEffectsBig"}, // vert Herbe
+			{"LIB_France_Grass","RDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","RGrassEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Grass","RDirtEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Poppy","RDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","RGrassEffectsBig"}, // Coquelicots
+			{"LIB_France_Poppy","RDirtEffectsBig"}, // Coquelicots
+			{"LIB_France_Raps","RDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RGrassEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","RDirtEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","RDustEffects"}, // Sable plage
+			{"LIB_France_Sand","RDirtEffectsBig"}, // Sable plage
+			{"LIB_France_Sand","RSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","RDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","RDirtEffectsBig"}, // Champ de terre
+			{"LIB_France_Weed","RDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RGrassEffectsDryBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","RDirtEffectsBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","RDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","RGrassEffectsBig"}, // Champ de blé vert
+			{"LIB_France_Wheat","RDirtEffectsBig"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","RDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RGrassEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","RDirtEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","RDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","RDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","RDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","RGrassEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Forest","RDirtEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Grass","RDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","RGrassEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grass","RDirtEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grazy","RDustEffects"},
+			{"LIB_Staszow_Grazy","RGrassEffectsBig"},
+			{"LIB_Staszow_Grazy","RDirtEffectsBig"},
+			{"LIB_Staszow_Oldgrass","RDustEffects"},
+			{"LIB_Staszow_Oldgrass","RGrassEffectsDryBig"},
+			{"LIB_Staszow_Oldgrass","RDirtEffectsBig"},
+			{"LIB_Staszow_Oldwheat","RDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RGrassEffectsDryBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","RDirtEffectsBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","RDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","RDirtEffectsBig"}, // Sable
+			{"LIB_Staszow_Sand","RSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","RDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","RGrassEffectsBig"}, // marais
+			{"LIB_Staszow_Swamp","RDirtEffectsBig"}, // marais
+			{"LIB_Staszow_Wheat","RDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RGrassEffectsDryBig"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","RDirtEffectsBig"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","RDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","RGrassEffectsBig"}, // Champ herbe
+			{"swu_aachen_corn_field","RDirtEffectsBig"}, // Champ herbe
+			{"swu_aachen_footsteps","RDustEffects"}, // terreux
+			{"swu_aachen_footsteps","RDirtEffectsBig"}, // terreux
+			{"swu_aachen_forest","RDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","RGrassEffectsBig"}, // sous bois herbe
+			{"swu_aachen_forest","RDirtEffectsBig"}, // sous bois herbe
+			{"swu_aachen_main_field","RDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","RGrassEffectsDryBig"}, // Champ herbe brun
+			{"swu_aachen_main_field","RDirtEffectsBig"}, // Champ herbe brun
+			{"swu_aachen_roads","RDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","RDirtEffectsBig"}, // terreux bord de route
+			{"swu_berlin_grass","RDustEffects"},
+			{"swu_berlin_grass","RGrassEffectsBig"},
+			{"swu_berlin_grass","RDirtEffectsBig"},
+			{"swu_berlin_main","RDustEffects"},
+			{"swu_berlin_main","RDirtEffectsBig"},
+			{"SWU_Dunkirk_Roadside","RDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RGrassEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","RDirtEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","RDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","RGrassEffectsBig"}, // sous bois
+			{"SWU_Forest_Mud","RDirtEffectsBig"}, // sous bois
+			{"SWU_Grass_Normal","RDustEffects"}, // herbe
+			{"SWU_Grass_Normal","RGrassEffectsBig"}, // herbe
+			{"SWU_Grass_Normal","RDirtEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","RDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","RGrassEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","RDirtEffectsBig"}, // herbe
+			{"swu_greece_grass","RDustEffects"}, // Herbe
+			{"swu_greece_grass","RGrassEffectsBig"}, // Herbe
+			{"swu_greece_grass","RDirtEffectsBig"}, // Herbe
+			{"swu_greece_road","RDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RGrassEffectsDryBig"}, // bord de route terre et herbe seche
+			{"swu_greece_road","RDirtEffectsBig"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","RDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","v"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","RDirtEffectsBig"}, // Champ herbe très seche
+			{"swu_greece_woods","RDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","RGrassEffectsBig"}, // sous bois herebe
+			{"swu_greece_woods","RDirtEffectsBig"}, // sous bois herebe
+			{"SWU_Road_Side","RDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","RDirtEffectsBig"}, // bord de route terreux
+			{"SWU_Sandy_Floor","RDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RGrassEffectsDryBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RDirtEffectsBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","RSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","RDustEffects"},
 			{"siFallujahTerra","RDirtEffectsBig"},
@@ -4734,7 +6031,8 @@ class CfgVehicles{
 			{"mak319_thorn","RDirtEffectsBig"},
 			{"mak319_thorn","RGrassEffectsDryBig"},
 			{"mak319_desert","RDustEffects"},
-			{"mak319_desert","RDirtEffectsBig"}
+			{"mak319_desert","RDirtEffectsBig"},
+			{"mak319_desert","RStonesEffectsBig"}
 		};
 		leftDustEffects[] =
 		{
@@ -4983,6 +6281,139 @@ class CfgVehicles{
 			{"Asf3","LDirtEffectsBig"},
 			{"road","LDustEffects"},
 			{"Cesta","LDustEffects"},
+			// IFA3
+			{"I44_Mer_Field","LDustEffects"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LGrassEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Field","LDirtEffectsBig"}, // Champ de blé sol terre
+			{"I44_Mer_Forest","LDustEffects"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LGrassEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Forest","LDirtEffectsBig"}, // sol de foret feuilles + herbes
+			{"I44_Mer_Grass1","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass1","LDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol vert
+			{"I44_Mer_Grass2","LDustEffects"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LGrassEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Grass2","LDirtEffectsBig"}, // Champ herbe verte mi haute + fleurs sol terre
+			{"I44_Mer_Ground","LDustEffects"}, // terre brune bord riviere
+			{"I44_Mer_Ground","LDirtEffectsBig"}, // terre brune bord riviere
+			{"I44_Nea_Farmdirt","LDustEffects"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LGrassEffectsDryBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmdirt","LDirtEffectsBig"}, // Champ en terre + petites herbes en touffes eparses
+			{"I44_Nea_Farmsurface","LDustEffects"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LGrassEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Farmsurface","LDirtEffectsBig"}, // Champ en terre + hautes herbes
+			{"I44_Nea_Grasssurface","LDustEffects"}, // herbe
+			{"I44_Nea_Grasssurface","LGrassEffectsBig"}, // herbe
+			{"I44_Nea_Grasssurface","LDirtEffectsBig"}, // herbe
+			{"I44_Nea_GravelSurface","LDustEffects"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LDirtEffectsBig"}, // terre nue gravier
+			{"I44_Nea_GravelSurface","LStonesEffects"}, // terre nue gravier
+			{"I44_Omaha_v2_Brown","LDustEffects"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LGrassEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Brown","LDirtEffectsBig"}, // terre + herbes
+			{"I44_Omaha_v2_Green","LDustEffects"}, // marron herbe
+			{"I44_Omaha_v2_Green","LGrassEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Green","LDirtEffectsBig"}, // marron herbe
+			{"I44_Omaha_v2_Lawn","LDustEffects"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LGrassEffectsBig"}, // vert Herbe
+			{"I44_Omaha_v2_Lawn","LDirtEffectsBig"}, // vert Herbe
+			{"LIB_France_Grass","LDustEffects"}, // Herbe bien verte
+			{"LIB_France_Grass","LGrassEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Grass","LDirtEffectsBig"}, // Herbe bien verte
+			{"LIB_France_Poppy","LDustEffects"}, // Coquelicots
+			{"LIB_France_Poppy","LGrassEffectsBig"}, // Coquelicots
+			{"LIB_France_Poppy","LDirtEffectsBig"}, // Coquelicots
+			{"LIB_France_Raps","LDustEffects"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LGrassEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Raps","LDirtEffectsBig"}, // Vert-brun herbe mi haute fleurs
+			{"LIB_France_Sand","LDustEffects"}, // Sable plage
+			{"LIB_France_Sand","LDirtEffectsBig"}, // Sable plage
+			{"LIB_France_Sand","LSandEffects"}, // Sable plage
+			{"LIB_France_Tillage","LDustEffects"}, // Champ de terre
+			{"LIB_France_Tillage","LDirtEffectsBig"}, // Champ de terre
+			{"LIB_France_Weed","LDustEffects"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LGrassEffectsDryBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Weed","LDirtEffectsBig"}, // champ d'herbes folles un peu jaunes
+			{"LIB_France_Wheat","LDustEffects"}, // Champ de blé vert
+			{"LIB_France_Wheat","LGrassEffectsBig"}, // Champ de blé vert
+			{"LIB_France_Wheat","LDirtEffectsBig"}, // Champ de blé vert
+			{"LIB_Staszow_Ambush","LDustEffects"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LGrassEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Ambush","LDirtEffectsBig"}, // Sol terreux avec herbes vertes
+			{"LIB_Staszow_Burn","LDustEffects"}, // sol brulé
+			{"LIB_Staszow_Burn","LDirtEffectsBig"}, // sol brulé
+			{"LIB_Staszow_Forest","LDustEffects"}, // Sous-bois
+			{"LIB_Staszow_Forest","LGrassEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Forest","LDirtEffectsBig"}, // Sous-bois
+			{"LIB_Staszow_Grass","LDustEffects"}, // herbe verte
+			{"LIB_Staszow_Grass","LGrassEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grass","LDirtEffectsBig"}, // herbe verte
+			{"LIB_Staszow_Grazy","LDustEffects"},
+			{"LIB_Staszow_Grazy","LGrassEffectsBig"},
+			{"LIB_Staszow_Grazy","LDirtEffectsBig"},
+			{"LIB_Staszow_Oldgrass","LDustEffects"},
+			{"LIB_Staszow_Oldgrass","LGrassEffectsDryBig"},
+			{"LIB_Staszow_Oldgrass","LDirtEffectsBig"},
+			{"LIB_Staszow_Oldwheat","LDustEffects"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LGrassEffectsDryBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Oldwheat","LDirtEffectsBig"}, // Champ de blé jaune coupé fond terre labour
+			{"LIB_Staszow_Sand","LDustEffects"}, // Sable
+			{"LIB_Staszow_Sand","LDirtEffectsBig"}, // Sable
+			{"LIB_Staszow_Sand","LSandEffects"}, // Sable
+			{"LIB_Staszow_Swamp","LDustEffects"}, // marais
+			{"LIB_Staszow_Swamp","LGrassEffectsBig"}, // marais
+			{"LIB_Staszow_Swamp","LDirtEffectsBig"}, // marais
+			{"LIB_Staszow_Wheat","LDustEffects"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LGrassEffectsDryBig"}, // champ de blé jaune non coupé fond terre seche
+			{"LIB_Staszow_Wheat","LDirtEffectsBig"}, // champ de blé jaune non coupé fond terre seche
+			{"swu_aachen_corn_field","LDustEffects"}, // Champ herbe
+			{"swu_aachen_corn_field","LGrassEffectsBig"}, // Champ herbe
+			{"swu_aachen_corn_field","LDirtEffectsBig"}, // Champ herbe
+			{"swu_aachen_footsteps","LDustEffects"}, // terreux
+			{"swu_aachen_footsteps","LDirtEffectsBig"}, // terreux
+			{"swu_aachen_forest","LDustEffects"}, // sous bois herbe
+			{"swu_aachen_forest","LGrassEffectsBig"}, // sous bois herbe
+			{"swu_aachen_forest","LDirtEffectsBig"}, // sous bois herbe
+			{"swu_aachen_main_field","LDustEffects"}, // Champ herbe brun
+			{"swu_aachen_main_field","LGrassEffectsDryBig"}, // Champ herbe brun
+			{"swu_aachen_main_field","LDirtEffectsBig"}, // Champ herbe brun
+			{"swu_aachen_roads","LDustEffects"}, // terreux bord de route
+			{"swu_aachen_roads","LDirtEffectsBig"}, // terreux bord de route
+			{"swu_berlin_grass","LDustEffects"},
+			{"swu_berlin_grass","LGrassEffectsBig"},
+			{"swu_berlin_grass","LDirtEffectsBig"},
+			{"swu_berlin_main","LDustEffects"},
+			{"swu_berlin_main","LDirtEffectsBig"},
+			{"SWU_Dunkirk_Roadside","LDustEffects"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LGrassEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Dunkirk_Roadside","LDirtEffectsBig"}, // bord de route herbe terreuse
+			{"SWU_Forest_Mud","LDustEffects"}, // sous bois
+			{"SWU_Forest_Mud","LGrassEffectsBig"}, // sous bois
+			{"SWU_Forest_Mud","LDirtEffectsBig"}, // sous bois
+			{"SWU_Grass_Normal","LDustEffects"}, // herbe
+			{"SWU_Grass_Normal","LGrassEffectsBig"}, // herbe
+			{"SWU_Grass_Normal","LDirtEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","LDustEffects"}, // herbe
+			{"SWU_Grassy_Floor","LGrassEffectsBig"}, // herbe
+			{"SWU_Grassy_Floor","LDirtEffectsBig"}, // herbe
+			{"swu_greece_grass","LDustEffects"}, // Herbe
+			{"swu_greece_grass","LGrassEffectsBig"}, // Herbe
+			{"swu_greece_grass","LDirtEffectsBig"}, // Herbe
+			{"swu_greece_road","LDustEffects"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LGrassEffectsDryBig"}, // bord de route terre et herbe seche
+			{"swu_greece_road","LDirtEffectsBig"}, // bord de route terre et herbe seche
+			{"swu_greece_vinesdust","LDustEffects"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LGrassEffectsDryBig"}, // Champ herbe très seche
+			{"swu_greece_vinesdust","LDirtEffectsBig"}, // Champ herbe très seche
+			{"swu_greece_woods","LDustEffects"}, // sous bois herebe
+			{"swu_greece_woods","LGrassEffectsBig"}, // sous bois herebe
+			{"swu_greece_woods","LDirtEffectsBig"}, // sous bois herebe
+			{"SWU_Road_Side","LDustEffects"}, // bord de route terreux
+			{"SWU_Road_Side","LDirtEffectsBig"}, // bord de route terreux
+			{"SWU_Sandy_Floor","LDustEffects"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LGrassEffectsDryBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LDirtEffectsBig"}, // sol sabloneux avec herbe
+			{"SWU_Sandy_Floor","LSandEffects"}, // sol sabloneux avec herbe
 			// Fallujah
 			{"siFallujahTerra","LDustEffects"},
 			{"siFallujahTerra","LDirtEffectsBig"},
@@ -5207,7 +6638,8 @@ class CfgVehicles{
 			{"mak319_thorn","LDirtEffectsBig"},
 			{"mak319_thorn","LGrassEffectsDryBig"},
 			{"mak319_desert","LDustEffects"},
-			{"mak319_desert","LDirtEffectsBig"}
+			{"mak319_desert","LDirtEffectsBig"},
+			{"mak319_desert","LStonesEffectsBig"}
 		};
 	};
 	class Air: AllVehicles
