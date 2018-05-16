@@ -26,7 +26,7 @@ class CfgVehicles
 		displayName = "GER Torn.Fu.d2 Radio (ACRE2)";
 	};
 	class B_LIB_SOV_RA_Radio;
-	class B_LIB_SOV_RA_Radio_ACRE2: B_LIB_US_Radio
+	class B_LIB_SOV_RA_Radio_ACRE2: B_LIB_SOV_RA_Radio
 	{
 		scope = 2;
 		scopeArsenal = 2;
